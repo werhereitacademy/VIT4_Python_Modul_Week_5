@@ -75,7 +75,7 @@ print("Square Area:", square.area_calculation())
 
 #Q5
 
-# Hackerrank 
+# Hackerrank Classes: Dealing with Complex Numbers
 
 import math
 
