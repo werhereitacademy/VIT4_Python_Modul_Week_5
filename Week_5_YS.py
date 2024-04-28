@@ -127,7 +127,7 @@ class Customer:
         print("Customer Information:")
         print("Name:", self.name)
         print("Surname:", self.surname)
-        print("TC ID:", self.BSN)
+        print("BSN:", self.BSN)
         print("Phone:", self.mobile)
 
 
